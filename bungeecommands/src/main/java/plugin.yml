@@ -1,0 +1,5 @@
+name: EpticBungeeCommands
+main: org.nulldev.bungeecommands.Main
+author: NullDev
+version: 1.0
+description: Sets the Max Slots to one number higher than the player count. Base number can be customized!
